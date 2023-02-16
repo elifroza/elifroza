@@ -1,4 +1,3 @@
-# <h2>    elifrozaseyidoglu </h2>
 - 👋 Hi, I’m @elifroza
 - 👀 I’m interested in Data Visualization and Flutter Development
 - 🌱 I’m currently learning Dart/Flutter
