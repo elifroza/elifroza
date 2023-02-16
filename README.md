@@ -5,9 +5,7 @@
 - 💞️ I’m looking to collaborate on Front end projects
 - 📫 How to reach me elifseyidogluu@gmail.com
 
-# Who am I
-<h3> Hi 👋 My name is Elif Roza Seyidoglu</h3>
-===========================
+<h4> Hi 👋 My name is Elif Roza Seyidoglu </h4>
 
 ### Skills
 
