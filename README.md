@@ -6,7 +6,7 @@
 - 📫 How to reach me elifseyidogluu@gmail.com
 
 # Who am I
-Hi 👋 My name is Elif Roza Seyidoglu
+<h3> Hi 👋 My name is Elif Roza Seyidoglu</h3>
 ===========================
 
 ### Skills
