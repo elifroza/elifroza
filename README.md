@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elifroza
 - 👀 I’m interested in Data Visualization and Flutter Development
 - 🌱 I’m currently learning Dart/Flutter
-- 💞️ I’m looking to collaborate on Front end projects
+- 💞️ I’m looking to collaborate on Data Analysis and Visualization projects
 - 📫 How to reach me elifseyidogluu@gmail.com
 
 <h4> Hi 👋 My name is Elif Roza Seyidoglu </h4>
